@@ -1,0 +1,14 @@
+integer - numbers
+String - wording " "
+Boolean - True/False
+Float - 21.00
+
++ -> addition
+- -> sub
+* -> multiplication
+/ -> division
+% -> modulus
+
+// -> floor division 
+
+10**3 -> 1000 -> power
